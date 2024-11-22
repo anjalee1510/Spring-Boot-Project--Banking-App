@@ -1,4 +1,6 @@
 Banking Application
+
+
 Overview
 This is a simple Banking Application built using Spring Boot. The application provides RESTful APIs to manage bank accounts and perform basic banking operations. It uses MySQL as the database for persistent data storage. APIs can be tested using a tool like Postman.
 
